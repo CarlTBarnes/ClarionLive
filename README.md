@@ -11,7 +11,7 @@ Watch the always peppy Bruce Johnson install and setup Clarion Assistant in the 
 ___
 ## Multi Term
 
-do similar to above
+Do a similar section to above
 ___
 ## ClarionLive on YouTube
 
