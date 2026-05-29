@@ -13,12 +13,16 @@ ___
 
 do similar to above
 ___
-## Clarion Live on YouTube
+## ClarionLive on YouTube
 
 Click to open [ClarionLive on YouTube](https://www.youtube.com/@ClarionLive/streams).
 
+___
+## ClarionLive on the Web
 
+Website for [ClarionLive](https://www.clarionlive.com/) with Webinar Index, Downloads, CIDC Live Videos, Resources and more.
 
+[Webinar Index Page](https://www.clarionlive.com/webinars) - List of Webinars with Search
 
- 
+[CIDC Live Page](https://www.clarionlive.com/cidc-live) - Clarion International Developers Conference and more.
 
