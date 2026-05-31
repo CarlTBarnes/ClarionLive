@@ -1,3 +1,9 @@
+___
+___
+#### See the [ClarionLive Profile Page](https://github.com/ClarionLive/ClarionLive) implemented on the [ClarionLive GitHub Account](https://github.com/ClarionLive) using the below example ...
+___
+___
+
 # ClarionLive
 ClarionLive Example Profile Repository aka Home Page
 ___
